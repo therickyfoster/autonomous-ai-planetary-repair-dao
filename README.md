@@ -6,12 +6,12 @@
 # 🌍 Autonomous AI Planetary Repair DAO
 ## Technical Whitepaper v3.0
 
-🌐 APR-DAO Foundation | 📧 contact@apr-dao.org | 📄 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+🌐 APR-DAO Foundation | 📧 contact@planetaryrestorationarchive.com | 📄 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 <p align="center">  
   <a href="https://linkedin.com/in/therickyfoster"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
   <a href="https://apr-dao.org"><img src="https://img.shields.io/badge/Website-HERE-38a169?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/></a>  
-  <a href="mailto:contact@apr-dao.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:contact@planetaryrestorationarchive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/therickyfoster/apr-dao"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://discord.gg/apr-dao"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
@@ -96,7 +96,7 @@ We architect **autonomous regenerative systems** that bridge AI intelligence wit
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logr=polygon&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
@@ -1177,10 +1177,10 @@ Architecting intelligent coordination systems that can manage multiple regenerat
 
 | Seeking | Focus Area | Contribution | Contact |
 |---------|-----------|--------------|---------|
-| 🔬 **Research Institutions** | Systematic regenerative tech integration | Academic rigor + real-world application | [science@apr-dao.org](mailto:science@apr-dao.org) |
-| 💻 **Systems Engineers** | Large-scale environmental architecture | Technical expertise + sustainable impact | [dev@apr-dao.org](mailto:dev@apr-dao.org) |
-| 🏢 **Organizations** | Comprehensive regenerative frameworks | Operational experience + validation | [partners@apr-dao.org](mailto:partners@apr-dao.org) |
-| 💰 **Impact Investors & DAOs** | Open-source architectural development | Capital + community governance | [investors@apr-dao.org](mailto:investors@apr-dao.org) |
+| 🔬 **Research Institutions** | Systematic regenerative tech integration | Academic rigor + real-world application | [science@planetaryrestorationarchive.com](mailto:science@planetaryrestorationarchive.com) |
+| 💻 **Systems Engineers** | Large-scale environmental architecture | Technical expertise + sustainable impact | [dev@planetaryrestorationarchive.com](mailto:dev@planetaryrestorationarchive.com) |
+| 🏢 **Organizations** | Comprehensive regenerative frameworks | Operational experience + validation | [partners@planetaryrestorationarchive.com](mailto:partners@planetaryrestorationarchive.com) |
+| 💰 **Impact Investors & DAOs** | Open-source architectural development | Capital + community governance | [investors@planetaryrestorationarchive.com](mailto:investors@planetaryrestorationarchive.com) |
 
 </div>
 
@@ -1325,7 +1325,7 @@ APR-DAO addresses a **$15B+ annual market** with a novel technology approach tha
 
 ### 🌟 Ready to Architect Regenerative Systems Together?
 
-<a href="mailto:contact@apr-dao.org">
+<a href="mailto:contact@planetaryrestorationarchive.com">
   <img src="https://img.shields.io/badge/Let's_Collaborate-38a169?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/therickyfoster">
@@ -1346,11 +1346,11 @@ APR-DAO addresses a **$15B+ annual market** with a novel technology approach tha
 
 | Stakeholder | Contact | Purpose |
 |-------------|---------|---------|
-| 🔬 **Environmental Scientists** | [science@apr-dao.org](mailto:science@apr-dao.org) | Join advisory board, validate methodologies |
-| 💻 **Developers** | [dev@apr-dao.org](mailto:dev@apr-dao.org) | Contribute to open-source development |
-| 💰 **Investors** | [investors@apr-dao.org](mailto:investors@apr-dao.org) | Participate in founding round |
-| 🤝 **Organizations** | [partners@apr-dao.org](mailto:partners@apr-dao.org) | Pilot partnerships and collaboration |
-| 👥 **Community** | [community@apr-dao.org](mailto:community@apr-dao.org) | Join the movement |
+| 🔬 **Environmental Scientists** | [science@planetaryrestorationarchive.com](mailto:science@planetaryrestorationarchive.com) | Join advisory board, validate methodologies |
+| 💻 **Developers** | [dev@planetaryrestorationarchive.com](mailto:dev@planetaryrestorationarchive.com) | Contribute to open-source development |
+| 💰 **Investors** | [investors@planetaryrestorationarchive.com](mailto:investors@planetaryrestorationarchive.com) | Participate in founding round |
+| 🤝 **Organizations** | [partners@planetaryrestorationarchive.com](mailto:partners@planetaryrestorationarchive.com) | Pilot partnerships and collaboration |
+| 👥 **Community** | [community@planetaryrestorationarchive.com](mailto:community@planetaryrestorationarchive.com) | Join the movement |
 
 </div>
 
